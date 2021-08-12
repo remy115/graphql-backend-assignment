@@ -1,0 +1,5 @@
+type Tax {
+  taxYear: Int
+  taxAnnualAmount: Int
+  id: String
+}

@@ -1,0 +1,10 @@
+enum ResponseMsgType {
+  MSG
+  WARNING
+  ERROR
+}
+
+interface DefaultResponseInterface {
+  msg: String!
+  type: ResponseMsgType!
+}

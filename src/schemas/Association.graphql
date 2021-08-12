@@ -1,0 +1,6 @@
+type Association {
+  frequency: String
+  fee: Int
+  name: String
+  amenities: String
+}

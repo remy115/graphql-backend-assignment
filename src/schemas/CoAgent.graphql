@@ -1,0 +1,7 @@
+type CoAgent {
+  lastName: String
+  contact: String
+  address: String
+  firstName: String
+  id: String
+}

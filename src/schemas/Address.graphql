@@ -1,0 +1,12 @@
+type Address {
+  crossStreet: String
+  state: String
+  country: String
+  postalCode: String
+  streetName: String
+  streetNumberText: String
+  city: String
+  streetNumber: Int
+  full: String
+  unit: String
+}

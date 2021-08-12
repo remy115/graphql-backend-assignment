@@ -1,0 +1,9 @@
+type Mls {
+  status: String
+  area: String
+  daysOnMarket: Int
+  originalEntryTimestamp: String
+  originatingSystemName: String
+  statusText: String
+  areaMinor: String
+}

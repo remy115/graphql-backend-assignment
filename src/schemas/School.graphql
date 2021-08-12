@@ -1,0 +1,6 @@
+type School {
+  middleSchool: String
+  highSchool: String
+  elementarySchool: String
+  district: String
+}

@@ -1,0 +1,7 @@
+type Sales {
+  closeDate: String
+  closePrice: Int
+  contractDate: String
+  agent: Agent
+  office: Office
+}

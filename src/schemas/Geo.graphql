@@ -1,0 +1,7 @@
+type Geo {
+  county: String
+  lat: Float
+  lng: Float
+  marketArea: String
+  directions: String
+}

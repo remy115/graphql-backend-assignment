@@ -1,0 +1,6 @@
+type Office {
+  contact: String
+  name: String
+  servingName: String
+  brokerid: String
+}
