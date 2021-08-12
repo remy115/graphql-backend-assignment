@@ -40,7 +40,7 @@ query getPropertiesQuery($getPropertiesCity: String) {
 }
 ```
 
-** dont forget to pass *Authorization* HTTP header with the string:  **
+**dont forget to pass *Authorization* HTTP header with the string:**
 
 ```bash
 
