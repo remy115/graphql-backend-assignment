@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@graphql-tools/load-files": "^6.3.2",
-    "@graphql-tools/merge": "^7.0.0",
+    "@graphql-tools/merge": "^8.2.6",
     "apollo-datasource-rest": "^3.1.1",
     "apollo-server-express": "3.1.1",
     "express": "4.17.1",
