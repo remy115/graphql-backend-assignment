@@ -29,6 +29,6 @@
     "collectCoverage": true
   },
   "devDependencies": {
-    "supertest": "^6.1.5"
+    "supertest": "^6.3.0"
   }
 }
